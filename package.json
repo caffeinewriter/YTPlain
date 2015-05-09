@@ -1,0 +1,14 @@
+{
+  "name": "PlainYT",
+  "version": "0.0.1",
+  "dependencies": {
+    "colors": "^1.1.0",
+    "nconf": "^0.7.1",
+    "redis": "^0.12.1",
+    "request": "^2.55.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "main": "index.js"
+}
