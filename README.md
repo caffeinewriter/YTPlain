@@ -9,6 +9,7 @@ Includes Redis caching.
 
 This app must be configured before it can be used.
 
+**config.json**
 ```
 {
   "redis": {
